@@ -1,0 +1,15 @@
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\bin\Debug\net6.0\TaskFoundation.exe
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\bin\Debug\net6.0\TaskFoundation.deps.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\bin\Debug\net6.0\TaskFoundation.runtimeconfig.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\bin\Debug\net6.0\TaskFoundation.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\bin\Debug\net6.0\TaskFoundation.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.csproj.AssemblyReference.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.AssemblyInfoInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.AssemblyInfo.cs
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.csproj.CoreCompileInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\refint\TaskFoundation.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\TaskFoundation.genruntimeconfig.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\TaskFoundation\obj\Debug\net6.0\ref\TaskFoundation.dll

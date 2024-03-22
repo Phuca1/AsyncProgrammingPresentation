@@ -1,0 +1,15 @@
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\bin\Debug\net6.0\AwaitingCompletedTask.exe
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\bin\Debug\net6.0\AwaitingCompletedTask.deps.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\bin\Debug\net6.0\AwaitingCompletedTask.runtimeconfig.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\bin\Debug\net6.0\AwaitingCompletedTask.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\bin\Debug\net6.0\AwaitingCompletedTask.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.csproj.AssemblyReference.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.AssemblyInfoInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.AssemblyInfo.cs
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.csproj.CoreCompileInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\refint\AwaitingCompletedTask.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\AwaitingCompletedTask.genruntimeconfig.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AwaitingCompletedTask\obj\Debug\net6.0\ref\AwaitingCompletedTask.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TaskFoundation": {
+      "commandName": "Project",
+      "commandLineArgs": "-async"
+    }
+  }
+}

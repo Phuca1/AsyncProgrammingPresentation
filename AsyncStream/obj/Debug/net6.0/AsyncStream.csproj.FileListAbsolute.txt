@@ -1,0 +1,15 @@
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.csproj.AssemblyReference.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.AssemblyInfoInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.AssemblyInfo.cs
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.csproj.CoreCompileInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\bin\Debug\net6.0\AsyncStream.exe
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\bin\Debug\net6.0\AsyncStream.deps.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\bin\Debug\net6.0\AsyncStream.runtimeconfig.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\bin\Debug\net6.0\AsyncStream.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\bin\Debug\net6.0\AsyncStream.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\refint\AsyncStream.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\AsyncStream.genruntimeconfig.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\AsyncStream\obj\Debug\net6.0\ref\AsyncStream.dll

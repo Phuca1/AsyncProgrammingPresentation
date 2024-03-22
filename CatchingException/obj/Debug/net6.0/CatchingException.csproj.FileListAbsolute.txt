@@ -1,0 +1,15 @@
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\bin\Debug\net6.0\CatchingException.exe
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\bin\Debug\net6.0\CatchingException.deps.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\bin\Debug\net6.0\CatchingException.runtimeconfig.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\bin\Debug\net6.0\CatchingException.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\bin\Debug\net6.0\CatchingException.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.csproj.AssemblyReference.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.AssemblyInfoInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.AssemblyInfo.cs
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.csproj.CoreCompileInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\refint\CatchingException.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\CatchingException.genruntimeconfig.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\CatchingException\obj\Debug\net6.0\ref\CatchingException.dll

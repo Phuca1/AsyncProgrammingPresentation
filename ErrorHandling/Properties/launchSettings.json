@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ErrorHandling": {
+      "commandName": "Project",
+      "commandLineArgs": "-donthandle"
+    }
+  }
+}

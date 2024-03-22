@@ -1,0 +1,15 @@
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.csproj.AssemblyReference.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.AssemblyInfoInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.AssemblyInfo.cs
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.csproj.CoreCompileInputs.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\bin\Debug\net6.0\DisposalObjectAsync.exe
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\bin\Debug\net6.0\DisposalObjectAsync.deps.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\bin\Debug\net6.0\DisposalObjectAsync.runtimeconfig.json
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\bin\Debug\net6.0\DisposalObjectAsync.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\bin\Debug\net6.0\DisposalObjectAsync.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\refint\DisposalObjectAsync.dll
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.pdb
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\DisposalObjectAsync.genruntimeconfig.cache
+D:\Learning\C#\async-await\Demo\AsyncDemo\DisposalObjectAsync\obj\Debug\net6.0\ref\DisposalObjectAsync.dll
